@@ -1,0 +1,1 @@
+streamlit run "C:\Users\sahas\OneDrive\Documents\visual studio code\doctor\multiple.py"
